@@ -1,0 +1,2 @@
+# ExitWinCC
+Exit WinCC Runtime
